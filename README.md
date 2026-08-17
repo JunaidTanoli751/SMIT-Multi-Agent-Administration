@@ -359,7 +359,7 @@ If you find this project useful, please consider:
 
 <div align="center">
 
-**Built with ❤️ by Adeel Iqbal Memon**
+**Built with ❤️ by  Junaid Tanoli & Adeel Iqbal Memon**
 
 *Empowering education through AI automation*
 
