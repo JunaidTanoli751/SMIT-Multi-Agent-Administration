@@ -327,12 +327,11 @@ This system is available as a customizable product for educational institutions,
 
 ### 📫 Contact Me
 
-**Adeel Iqbal Memon**  
+**Junaid Tanoli**  
 AI/ML Engineer | Full-Stack Developer
 
-- 📧 Email: [adeelmemon096@yahoo.com](mailto:adeelmemon096@yahoo.com)
-- 💼 LinkedIn: [linkedin.com/in/adeeliqbalmemon](https://linkedin.com/in/adeeliqbalmemon)
-- 🐙 GitHub: [@adeel-iqbal](https://github.com/adeel-iqbal)
+- 📧 Email: [junaidtanoli751@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/junaid-tanoli01/]
 
 > 💡 **Enterprise Inquiries Welcome** - I provide consultancy for AI-powered automation solutions, LangGraph implementations, and scalable multi-agent systems.
 
